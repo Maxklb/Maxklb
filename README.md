@@ -3,5 +3,5 @@
 
 
 
-- 🔭 I’m currently working on Born2BeRoot, ft_printf and GNL
+- 🔭 I’m currently working on Minitalk, FdF and Push_Swap
 - 🌱 I’m currently learning C
